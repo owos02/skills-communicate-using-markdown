@@ -11,3 +11,10 @@ Here is a Picture of a Cat:
 ```py
 print("Hello World!")
 ```
+
+This is a Task List
+
+- [x] Finish the Task List step
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
